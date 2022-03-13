@@ -1,5 +1,4 @@
-lst
-emoji 
-me
-you
+*lst
+*me
+*you
 Replace this with a list of your favorite things.
